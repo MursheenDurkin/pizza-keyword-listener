@@ -49,7 +49,7 @@ Listening for 'pizza'...
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/barneyhk1804/pizza-keyword-listener.git
+git clone https://github.com/MursheenDurkin/pizza-keyword-listener.git
 cd pizza-keyword-listener
 ```
 
