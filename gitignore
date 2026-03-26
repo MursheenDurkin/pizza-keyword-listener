@@ -1,0 +1,15 @@
+# Log output — don't commit your pizza count to GitHub
+pizza_log.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
