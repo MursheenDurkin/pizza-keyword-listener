@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-A Python script that listens through your microphone and logs every time the word **"pizza"** is detected — complete with a timestamp and date. Built because my lecturer genuinely could not stop saying pizza. 🍕
+A Python script that listens through your microphone and logs every time the word **"pizza"** is detected, complete with a timestamp and date. Built because my lecturer genuinely could not stop saying pizza. 🍕
 
 ---
 
@@ -21,7 +21,7 @@ Log file : pizza_log.txt
 
 Press Ctrl+C to stop.
 
-Calibrating microphone — stay quiet for 2 seconds...
+Calibrating microphone, stay quiet for 2 seconds...
 Done. Listening...
 
 Listening for 'pizza'...
@@ -30,7 +30,7 @@ Listening for 'pizza'...
   ✅ Logged at 2025-11-04 14:32:07
 
 Listening for 'pizza'...
-  No audio detected — listening again...
+  No audio detected, listening again...
 ```
 
 **pizza_log.txt**
@@ -96,8 +96,8 @@ Press **Ctrl+C** to stop. Detections are saved to `pizza_log.txt` in the same fo
 ## 🛠️ Built With
 
 - [Python 3](https://www.python.org/)
-- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) — microphone input and Google Speech Recognition
-- [PyAudio](https://pypi.org/project/PyAudio/) — audio stream handling
+- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/): microphone input and Google Speech Recognition
+- [PyAudio](https://pypi.org/project/PyAudio/): audio stream handling
 
 ---
 
@@ -112,7 +112,7 @@ Press **Ctrl+C** to stop. Detections are saved to `pizza_log.txt` in the same fo
 
 ## 🙋 About
 
-A fun little project built while learning Python — specifically around audio input, speech recognition, and file I/O. My lecturer had a habit of saying "pizza" constantly, so this felt like the only reasonable response.
+A fun little project built while learning Python, specifically around audio input, speech recognition, and file I/O. My lecturer had a habit of saying "pizza" constantly, so this felt like the only reasonable response.
 
 ---
 
